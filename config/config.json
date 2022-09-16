@@ -1,0 +1,7 @@
+{
+    "_comment": "Enables the use of the mod. [true/false]",
+    "mod_enabled": true,
+
+    "_comment": "Enables verbose logging. [true/false]",
+    "debug": true
+}
